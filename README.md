@@ -30,18 +30,7 @@ Young MERN Stack Developer | Building Modern Web Applications
 
 ---
 
-## Featured Projects
 
-### 🏡 Santsai Real Estate
-Real estate platform with property listings, agent system, and admin dashboard.
-
-### 🛒 FreshTokri
-Full-stack MERN marketplace application with authentication and modern UI.
-
-### 🌐 Portfolio Website
-Personal portfolio showcasing my skills and projects.
-
----
 
 ## GitHub Stats
 
